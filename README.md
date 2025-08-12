@@ -22,6 +22,6 @@ You can add and delete tasks dynamically.
 3. Add and delete tasks as needed.
 
 ## Project Structure 
-ToDoApp
+ToDoApp/
  └── ToDoApp.java
  └── README.md
